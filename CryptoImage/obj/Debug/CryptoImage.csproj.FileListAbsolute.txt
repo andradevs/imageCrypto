@@ -1,0 +1,7 @@
+C:\Users\Fadami\personal\CryptoImage\CryptoImage\bin\Debug\CryptoImage.exe.config
+C:\Users\Fadami\personal\CryptoImage\CryptoImage\bin\Debug\CryptoImage.exe
+C:\Users\Fadami\personal\CryptoImage\CryptoImage\bin\Debug\CryptoImage.pdb
+C:\Users\Fadami\personal\CryptoImage\CryptoImage\obj\Debug\CryptoImage.csproj.AssemblyReference.cache
+C:\Users\Fadami\personal\CryptoImage\CryptoImage\obj\Debug\CryptoImage.csproj.CoreCompileInputs.cache
+C:\Users\Fadami\personal\CryptoImage\CryptoImage\obj\Debug\CryptoImage.exe
+C:\Users\Fadami\personal\CryptoImage\CryptoImage\obj\Debug\CryptoImage.pdb
